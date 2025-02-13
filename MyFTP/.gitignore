@@ -1,0 +1,12 @@
+*.o
+*.a
+*.log
+.vscode/
+*.gcda
+*.gcno
+myftp
+*.txt
+test.*
+*.test
+vgcore.*
+folder_server/
